@@ -1,5 +1,7 @@
 org     100h
 
+; Variant 40
+
 Start:
         mov     ah, 09h
         mov     dx, helloLine
